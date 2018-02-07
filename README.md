@@ -16,7 +16,7 @@ Di dalam satu solution ini, terdapat tiga buah project, yaitu IdentifikasiEkspre
 - TrainFERNetwork merupakan program untuk melatih network yang digunakan untuk mengenali ekspresi wajah.
 
 - Untuk dataset ekspresi wajah, digunakan CK+ Helen dataset (sementara).
-- Untuk dataset pengenalan wajah, digunakan dataset sendiri dengan jumlah wajah 3 x 5 wajah.
+- Untuk dataset pengenalan wajah, digunakan dataset sendiri dengan jumlah wajah 3 x 5 wajah. (sementara)
 
 
 # Installing Dependencies:
